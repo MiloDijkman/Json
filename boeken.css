@@ -3,6 +3,7 @@ body{
 }
 
 .boek{
+  clear: both;
   padding: 1em;
   clear: left;
 }
